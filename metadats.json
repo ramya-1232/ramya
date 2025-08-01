@@ -1,0 +1,6 @@
+{
+  "name": "CNG_DISTANCE_CALCULATOR_1/8/2025",
+  "description": "An app to calculate the distance between CNG stations and visualize them on a map.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
